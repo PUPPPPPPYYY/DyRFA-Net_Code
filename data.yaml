@@ -1,0 +1,8 @@
+train: datasets/AppleflowersData/images/train
+val: datasets/AppleflowersData/images/val
+test: datasets/AppleflowersData/images/test
+
+
+# Classes
+nc: 2  # number of classes
+names: ['immature', 'mature']  # class names
