@@ -3,7 +3,7 @@
 import sys
 from ultralytics.nn.modules.DySample import DySample
 
-sys.path.append('ultralytics/models/yolov10/custom_layers.py)
+sys.path.append('ultralytics/models/yolov10/custom_layers.py')
 import contextlib
 from copy import deepcopy
 from pathlib import Path
