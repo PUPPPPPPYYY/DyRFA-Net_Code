@@ -1,7 +1,7 @@
 from ultralytics import YOLOv10
 
 
-model_yaml_path = 'DyRFANet/YAML/yolov10n+RFAConv.yaml'
+model_yaml_path = 'DyRFANet/YAML/DyRFA-Nat.yaml'
 data_yaml_path = 'DyRFANet/data.yaml'
 pre_model_name = 'DyRFANet/yolov10n.pt'
 
