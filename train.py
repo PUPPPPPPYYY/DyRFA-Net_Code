@@ -11,7 +11,6 @@ if __name__ == '__main__':
   
     results = model.train(data=data_yaml_path,
                           epochs=300,
-                          batch=8,
-                          patience=0
+                          batch=8
                           )
 
